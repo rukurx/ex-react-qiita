@@ -1,1 +1,1 @@
-# ex-react-rss
+# ex-react-qiita
